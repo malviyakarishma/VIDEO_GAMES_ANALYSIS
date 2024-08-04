@@ -29,3 +29,19 @@ video games represent a dynamic and evolving form of entertainment that intersec
 **other_sales**- Rest of the world sales of copies in millions
 
 **release_date**- Date of the game was released on
+
+# File Included :
+
+**CSV files Datasets**
+
+**Jupyter Notebook**
+
+**Power-BI Dashboards**
+
+# Conclusions :
+
+**GTA V and RDR has the most critic score which means it was like by the most people.** <br>
+**Most Sales were form NA(NORTH AMERICA) which was 45%** <br>
+**The most sales were made by 'SHOOTER' genre** <br>
+**In 2008 year, the most money was made.**
+

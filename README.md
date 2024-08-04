@@ -1,5 +1,31 @@
 # Project Description
 
-## Video Games Data Analysis
+**Video games** serve as interactive media that transcend traditional storytelling methods. They immerse players in virtual worlds where they can assume different roles and embark on adventures that unfold based on their choices and actions. This interactivity fosters a unique form of engagement, allowing players to experience narratives firsthand rather than passively consuming them.
 
-The rapid evolution of the video game industry necessitates comprehensive data analysis to understand player behavior, optimize game performance, and enhance monetization strategies. This study delves into the multifaceted dimensions of video game data analysis, focusing on player engagement, in-game behavior, monetization metrics, and market trends. By tracking active user metrics, session lengths, retention and churn rates, and demographic profiles, we gain insights into player engagement patterns. Analysis of level completion rates, achievement unlocks, and the in-game economy reveals critical aspects of player behavior. Furthermore, monetization metrics such as revenue, average revenue per user (ARPU), lifetime value (LTV), and conversion rates provide a detailed understanding of financial performance. The study also examines sales trends, operational efficiency, and competitive positioning within the market. By leveraging these insights, game developers and publishers can make data-driven decisions to enhance player experience, optimize game design, and improve profitability. This comprehensive approach to video game data analysis is essential for sustaining growth and achieving long-term success in the highly competitive gaming industry.
+Moreover, video games have become a significant cultural phenomenon, influencing art, music, fashion, and even language. They serve as a medium for creative expression, enabling developers to explore diverse themes and concepts. From indie games exploring personal narratives to blockbuster titles with expansive universes, video games reflect and shape contemporary culture.
+
+video games represent a dynamic and evolving form of entertainment that intersects with various aspects of contemporary society. Their influence spans cultural, social, and psychological domains, shaping how people interact with media and each other. **As technology advances, video games continue to push boundaries, offering new experiences and possibilities that redefine entertainment in the digital age.**
+
+# COLUMN DETAILS :
+
+**title**- Game Title/Name
+
+**console**- Console of the game was released for
+
+**publisher**- Publisher of the game
+
+**developer**- Developer of the game
+
+**critic_score**- Metacritic score(out of 10)
+
+**total_sales**- Global sales of copies in millions
+
+**na_sales**- North American sales of copies in millions
+
+**jp_sales**- Japanese sales of copies in millions
+
+**pal_sales**- European and African sales of copies in millions
+
+**other_sales**- Rest of the world sales of copies in millions
+
+**release_date**- Date of the game was released on
